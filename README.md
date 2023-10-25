@@ -22,3 +22,5 @@ Notes:
 
 - QuantConnect is a powerful platform at this price point, as it is getting harder and harder to outperform in the stock markets. Thanks to higher retail anticipation, options markets can provide alpha thanks to it's nature of volatility sensitivity and time decay
 
+![image](https://github.com/IBatuu/SPY_High_IVPercentile_Backtest_QC/assets/78052559/e13f09c8-2185-487e-b0d2-16402b10a0a9)
+![image](https://github.com/IBatuu/SPY_High_IVPercentile_Backtest_QC/assets/78052559/cc1f57d3-2eca-40f4-8174-bb3ff8ead0b6)
